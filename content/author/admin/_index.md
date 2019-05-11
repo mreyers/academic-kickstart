@@ -9,7 +9,8 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "MSc Student at SFU,<br> Data Science intern at Terramera"
+role = "MSc Student at SFU,
+Data Science intern at Terramera"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -76,3 +77,4 @@ interests = [
 
 I am a Masters Student of Statistics under the supervision of Dr. Tim Swartz. My thesis will focus on Sports Analytics and Data Science, two of my primary research interests. Outside of research, I currently act as a Co-President for Burnaby Mountain Toastmasters and as an executive member for the SFU Sports Analytics Club. 
 
+I like to keep myself busy and contribute to the communities I engage with regularly. You can find whatever has been occupying my free time in #posts. The rest of my work, more closely related to research and school, can then be found in #projects. 
