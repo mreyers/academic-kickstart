@@ -17,12 +17,13 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Data Science Co-op"
   company = "Terramera"
   company_url = "https://www.terramera.com/"
   location = "Vancouver"
-  date_start = "May 2019"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -37,8 +38,8 @@ date_format = "Jan 2006"
   company = "Statistics Canada"
   company_url = "https://www.statcan.gc.ca/eng/start"
   location = "Ottawa"
-  date_start = "May 2017"
-  date_end = "August 2017"
+  date_start = "2017-05-01"
+  date_end = "2017-08-31"
   description = """Worked to improve current methods for outlier detection and imputation in upcoming surveys"""
   
 +++
