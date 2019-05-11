@@ -27,6 +27,12 @@ subtitle = ""
   description = "Advanced"  
   
 [[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = "Learning" 
+  
+[[feature]]
   icon = "football-ball"
   icon_pack = "fas"
   name = "Football"
