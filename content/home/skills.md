@@ -18,18 +18,24 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Advanced"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Advanced"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "football-ball"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Football"
+  description = "Fan"
+
+[[feature]]
+  icon = "hockey-puck"
+  icon_pack = "fas"
+  name = "Hockey"
+  description = "Fan"
 
 +++
