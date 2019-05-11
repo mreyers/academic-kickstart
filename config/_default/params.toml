@@ -157,7 +157,7 @@ sharing = true
 
 [background]
   # Background color.
-  color = "navy"
+  color = "navy" # Testing to see if this parameter is used, probably not because of theme specified
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
