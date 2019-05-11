@@ -160,8 +160,8 @@ sharing = true
   #color = "navy" # Testing to see if this parameter is used, probably not because of theme specified
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
   
   # Background image.
   #image = "background.jpg"  # Name of image in `static/img/`.
