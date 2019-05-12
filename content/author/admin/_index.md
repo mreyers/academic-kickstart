@@ -9,7 +9,8 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "MSc Student at SFU, \n Data Science Co-op at Terramera"
+role = """MSc Student at SFU <br>
+Data Science Co-op at Terramera"""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
