@@ -9,10 +9,7 @@ view = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "Matt_img.png"
+image = "Matt_img.PNG"
 caption = "Testing image on page"
 
-[header]
-image = "nfl_bdb.jpg"
-caption = "Testing second image on page"
 +++
